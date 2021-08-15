@@ -12,8 +12,8 @@ import ListItemText from '@material-ui/core/ListItemText';
 import MenuItem from '@material-ui/core/MenuItem';
 import Input from '@material-ui/core/Input';
 import Button from '@material-ui/core/Button';
-import genres from './../../common/genre';
-import artists from './../../common/artists';
+import genres from '../../common/genre';
+import artists from '../../common/artists';
 
 
 const useStyles = makeStyles((theme) => ({
